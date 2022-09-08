@@ -83,6 +83,7 @@ int find_builtin(info_t *info)
  *
  * Return: void
  */
+
 void find_cmd(info_t *info)
 {
 	char *path = NULL;
