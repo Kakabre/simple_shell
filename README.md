@@ -1,4 +1,3 @@
-# This file lists all individuals having contributed content to the repository.
-
-Chiamaka Anawanti <chiamakaanawanti@gmail.com>
-Teslim Balogun <teslimb36@gmail.com>
+# A simple shell built with C
+This is a shell built by Chiamaka Anawanti and Teslim Balogun.
+The shell works like a typical linux terminal shell. Basically
